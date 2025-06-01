@@ -109,15 +109,3 @@ Once the server is running, you can access the auto-generated docs:
 | GET    | /api/tasks/{id}/      | Retrieve a task         |
 | PUT    | /api/tasks/{id}/      | Update a task           |
 | DELETE | /api/tasks/{id}/      | Delete a task           |
-
----
-
-## 🧑‍💻 Author
-
-Made with ❤️ by [Your Name]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
